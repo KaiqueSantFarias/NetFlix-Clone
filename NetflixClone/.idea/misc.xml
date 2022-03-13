@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetflixClone/app/src/main/res/drawable/edit_text_cadastro.xml" value="0.75" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NetflixClone/app/src/main/res/drawable/edit_text_login.xml" value="0.1315" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NetflixClone/app/src/main/res/drawable/ic_netflix_official_logo.xml" value="0.1315" />
         <entry key="..\:/Users/User/AndroidStudioProjects/NetflixClone/app/src/main/res/layout/activity_form_cadastro.xml" value="0.3067708333333333" />
