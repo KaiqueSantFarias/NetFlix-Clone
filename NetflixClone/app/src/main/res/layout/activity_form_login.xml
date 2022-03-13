@@ -50,7 +50,7 @@
        android:id="@+id/msg_erro"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-      android:text="Coloque o seu email"
+      android:text=""
        android:textColor="@color/orange"
        android:textSize="18sp"
        android:textStyle="bold"
